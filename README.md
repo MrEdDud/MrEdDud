@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Eduard
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Digital Production, Design and Development
+- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: eduardcojocarubusiness@gmail.com
