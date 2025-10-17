@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Eduard
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: eduardcojocaru2016@gmail.com
