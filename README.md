@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Eduard
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently a second-year Computer Science student at Middlesex University
 - 📫 How to reach me: eduardcojocaru2016@gmail.com
